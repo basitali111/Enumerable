@@ -4,8 +4,6 @@ In this project I used a module inside a class. I created a class MyList and a m
 
 
 ## Built With
-
-Built With
 Ruby
 Getting Started
 Prerequisites
@@ -54,9 +52,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/markotuya0)
-- Twitter: [@twitterhandle](https://twitter.com/mark__anthonny)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/mark__anthonny)
+- GitHub: [@markotuya0](https://github.com/markotuya0)
+- Twitter: [@mark__anthonny](https://twitter.com/mark__anthonny)
+- LinkedIn: [mark__anthonny](https://linkedin.com/in/mark__anthonny)
 
 👤 **Author3**
 
