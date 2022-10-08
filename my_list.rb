@@ -16,5 +16,5 @@ end
 list_of_nums = Mylist.new(1, 2, 3, 4)
 
 puts list_of_nums.all? # true
-puts list_of_nums.any? # false
+puts list_of_nums.any? # true
 print list_of_nums.filter? # [2, 4]
