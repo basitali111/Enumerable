@@ -1,13 +1,13 @@
 module Enumerable
-  def all(list)
+  def all?
     list.all? { |num| num < 5 }
   end
 
-  def any(list)
-    list.any? { |num| num == 5 }
+  def any?
+    list.any? { |num| num == 2 }
   end
 
-  def filter(list)
+  def filter?
     list.filter(&:even?)
   end
 end
